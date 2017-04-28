@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="csv" type="Cvs file" />
+      <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
     </extensionMap>
