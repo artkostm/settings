@@ -4,6 +4,7 @@
       <mapping ext="csv" type="Cvs file" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
     </extensionMap>
