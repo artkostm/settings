@@ -6,12 +6,13 @@
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
+      <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="stb" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <mapping pattern="Example" type="Scala" />
       <mapping pattern="ScalaJsExample" type="Scala" />
+      <mapping pattern="Example" type="Scala" />
     </extensionMap>
   </component>
 </application>
