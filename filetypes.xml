@@ -9,6 +9,7 @@
       <mapping ext="stb" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping pattern="Example" type="Scala" />
     </extensionMap>
   </component>
 </application>
