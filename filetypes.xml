@@ -2,7 +2,6 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping ext="csv" type="Cvs file" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
@@ -12,7 +11,6 @@
       <mapping ext="stb" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
-      <removed_mapping ext="csv" type="PLAIN_TEXT" />
       <mapping pattern="Example" type="Scala" />
       <mapping pattern="ScalaJsExample" type="Scala" />
     </extensionMap>
