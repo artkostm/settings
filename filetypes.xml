@@ -3,10 +3,12 @@
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="fsimage_0000000000000000000" type="PLAIN_TEXT" />
       <mapping pattern="Procfile" type="PLAIN_TEXT" />
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="edits_inprogress_0000000000000000001" type="PLAIN_TEXT" />
       <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
