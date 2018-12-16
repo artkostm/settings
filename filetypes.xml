@@ -7,11 +7,13 @@
       <mapping pattern="out" type="PLAIN_TEXT" />
       <mapping pattern="key" type="PLAIN_TEXT" />
       <mapping pattern="output" type="PLAIN_TEXT" />
+      <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="stb" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="5" type="PLAIN_TEXT" />
       <mapping pattern="Example" type="Scala" />
       <mapping pattern="ScalaJsExample" type="Scala" />
     </extensionMap>
