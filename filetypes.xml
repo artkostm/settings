@@ -10,12 +10,12 @@
       <mapping pattern="output" type="PLAIN_TEXT" />
       <mapping pattern="edits_inprogress_0000000000000000001" type="PLAIN_TEXT" />
       <mapping pattern="stderr" type="PLAIN_TEXT" />
+      <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="stb" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
-      <mapping ext="1" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
