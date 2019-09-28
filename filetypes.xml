@@ -13,6 +13,7 @@
       <mapping pattern="stderr" type="PLAIN_TEXT" />
       <mapping ext="token" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
+      <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="stb" type="PLAIN_TEXT" />
       <mapping ext="sst" type="PLAIN_TEXT" />
       <mapping ext="5" type="PLAIN_TEXT" />
